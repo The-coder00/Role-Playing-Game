@@ -101,3 +101,12 @@ function buyWeapon() {
     text.innerText = "You already have the most powerful weapon!";
   }
 }
+
+
+function fightSlime() {
+
+}
+
+function fightBeast() {
+
+}
